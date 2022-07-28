@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm milad salehi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![image](https://user-images.githubusercontent.com/44521214/181411026-f97f98b9-d6cb-438d-958f-27e3e94e6c9f.png)
+
 - 🔭 I’m currently working on **SSO**
 
 - 🌱 I’m currently learning **Flutter**
